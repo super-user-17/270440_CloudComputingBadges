@@ -1,5 +1,10 @@
 # CloudComputingBadges
 
+### June 22
+![22 June](https://user-images.githubusercontent.com/39994054/123033772-ec574780-d405-11eb-8d41-d22d8785b62a.png)
+
+
+
 ### June 21
 ![21 June](https://user-images.githubusercontent.com/39994054/122779384-6fc04e00-d2cb-11eb-828c-7a1dbec4f848.PNG)
 
