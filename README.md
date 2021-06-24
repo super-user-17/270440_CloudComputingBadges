@@ -1,8 +1,16 @@
 # CloudComputingBadges
+### Trophies
+![Trophies](https://user-images.githubusercontent.com/39994054/123260535-4bef4900-d513-11eb-9085-6e7b9acc18ae.png)
+
+
+
+### June 24
+![24 June](https://user-images.githubusercontent.com/39994054/123260486-3ed25a00-d513-11eb-9b64-01fb86a5df37.png)
+
+
 
 ### June 23
 ![23 June](https://user-images.githubusercontent.com/39994054/123115158-81d1f600-d45d-11eb-9d34-f886391ff323.png)
-
 
 
 
